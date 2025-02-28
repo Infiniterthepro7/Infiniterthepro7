@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Infiniterthepro7
+- 👋 Hi, I’m muthuaryan 
 - 👀 I’m interested in coding and making projects
 - 🌱 I’m currently learning Java and C
 - 📫 How to reach me -> muthuaryana@gmail.com
