@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Java and C
 - 📫 How to reach me -> muthuaryana@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: A lot tbvh
-- 
+- ⚡ Fun fact: Sports guy
 
 <!---
 Infiniterthepro7/Infiniterthepro7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
